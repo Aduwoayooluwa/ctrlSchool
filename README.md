@@ -19,4 +19,4 @@ If you have any questions about CtrlSchool, please contact us at https://ctrlsch
 
 ## Website
 
-The website for CtrlSchool is ctrl.vercel.app.
+The website for CtrlSchool is https://ctrl.vercel.app.
