@@ -15,7 +15,7 @@ To get started with CtrlSchool, you will need to create an account. Once you hav
 
 ## Contact Us
 
-If you have any questions about CtrlSchool, please contact us at support@ctrlschool.com.
+If you have any questions about CtrlSchool, please contact us at https://ctrlschool.vercel.app
 
 ## Website
 
