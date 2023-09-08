@@ -9,7 +9,7 @@ export default function ThankyouModal() {
     return (
         <main className={"w-[300px] md:w-[600px]  mx-5 md:mx-0 bg-white px-10 py-5 h-full md:h-[500px]"}>
             <div>
-                <p className='text-[23px] md:text-[30px] font-bold text-center'>Thank You for Choosing Meld Tech Academy!</p>
+                <p className='text-[23px] md:text-[30px] font-bold text-center'>Thank You for Choosing ctrl Tech Academy!</p>
 
                 <p className='text-sm md:text-[14px] mt-5 md:mt-10'>
                     Congratulations on taking the first step towards transforming your tech career. You'll receive an email with next steps shortly.

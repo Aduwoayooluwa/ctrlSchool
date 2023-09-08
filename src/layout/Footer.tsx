@@ -11,11 +11,11 @@ const Footer = (props: Props) => {
                     <div>
                         <div className="flex items-center text-black">
                             <img alt="logo" src="/logo.png" />
-                            <p className='ml-2 text-[23px] font-semibold'>MELDTECH</p>
+                            <p className='ml-2 text-[23px] font-semibold'>ctrlSchool</p>
                         </div>
 
                         <p className="mt-4 max-w-xs text-sm text-black">
-                            MeldTech Academy is a premier tech education platform empowering learners with cutting-edge skills.
+                            ctrlSchool Academy is a premier tech education platform empowering learners with cutting-edge skills.
                             Our expert-led courses and hands-on approach prepare you for success in the dynamic tech landscape.
                         </p>
 
@@ -234,7 +234,7 @@ const Footer = (props: Props) => {
             </div>
             <div className='bg-black w-full h-[69px] flex items-center justify-center'>
                 <p className="text-[16px] text-white  text-center">
-                    &copy; {new Date().getFullYear()}. MeldTech Academy. All rights reserved.
+                    &copy; {new Date().getFullYear()}. ctrlSchool Academy. All rights reserved.
                 </p>
             </div>
         </footer>

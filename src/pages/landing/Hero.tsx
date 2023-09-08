@@ -8,14 +8,14 @@ type Props = {}
 const Hero = (props: Props) => {
     const router = useNavigate()
     return (
-        <section className='h-[600px] px-20 pt-20'>
-            <section className='flex justify-around items-center w-full'>
-                <div className=' w-1/3'>
+        <section className='h-full md:h-[600px] p-3 md:px-20 pt-10 md:pt-20'>
+            <section className='flex flex-col md:flex-row justify-around items-center w-full'>
+                <div className=' w-full md:w-1/3'>
                     <p className='font-extrabold text-[#003399] text-sm'>Unlock your potential</p>
-                    <p className='text-[48px] font-[900] w-[450px]'>
-                        Unlock Your Potential with Meld Tech Academy
+                    <p className='text-[28px] md:text-[38px] lg:text-[48px] font-[900] w-full md:w-[450px]'>
+                        Unlock Your Potential with Ctrl Tech Academy
                     </p>
-                    <p className='my-4 w-[496px]'>
+                    <p className='my-4 w-full md:w-[496px]'>
                         Learn in-demand tech skills from industry experts and build a successful career in software engineering.
                     </p>
 

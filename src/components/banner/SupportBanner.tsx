@@ -23,7 +23,7 @@ function SupportBanner() {
 
                 <div className='ml-4'>
                     <p className='font-semibold'>Email</p>
-                    <p className='text-sm'>meldtechofficial@gmail.com</p>
+                    <p className='text-sm'>ctrlSchoolofficial@gmail.com</p>
                 </div>
             </div>
 

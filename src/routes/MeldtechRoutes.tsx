@@ -8,7 +8,7 @@ import Home from "../pages/Home";
 import RegistrationForm from "../pages/Registration";
 
 
-const MeldTechRoute = () => {
+const ctrlSchoolRoute = () => {
 
     return (
         <>
@@ -29,4 +29,4 @@ const MeldTechRoute = () => {
     );
 };
 
-export default MeldTechRoute;
+export default ctrlSchoolRoute;
